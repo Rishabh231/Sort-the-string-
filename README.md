@@ -1,4 +1,4 @@
 # Sort-the-string-
 Sorting of strings
 
-In this different test cases is taken for various strings to sort.
+It is a c++ program In which different test cases is undertaken for various strings to sort.
